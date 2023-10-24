@@ -69,7 +69,7 @@ function App() {
           </tr>
         </table>
       </div>
-      <div ref={about} className="section"></div>
+      
       <div ref={skills} className="section">
         <h3 className="heading">My skills</h3>
         <ul>
